@@ -12,15 +12,15 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "6575295322:AAFOaqHtuX5i5o7bxqSF83kqVJzOgFVL1e4",
-            "value": ""
+            "value": "6575295322:AAFOaqHtuX5i5o7bxqSF83kqVJzOgFVL1e4"
         },
         "API_HASH": {
             "description": "0a64b7fb353afea42c8847bd5ae5c744",
-            "value": ""
+            "value": "0a64b7fb353afea42c8847bd5ae5c744"
         },
         "APP_ID": {
             "description": "23308690",
-            "value": ""
+            "value": "23308690"
 	   }
 	},
 	"buildpacks": [
